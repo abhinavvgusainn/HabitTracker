@@ -1,16 +1,3 @@
-# habitrack
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+make sure to run "pub get" before launching the app.
+![Screenshot_1685423250](https://github.com/abhinavvgusainn/HabitTracker/assets/97800111/1ed45372-2577-464b-b5b4-8cb4e708bca2)
+![Screenshot_1685423148](https://github.com/abhinavvgusainn/HabitTracker/assets/97800111/40ceb2e6-a4cb-4b49-8dd1-2633ffc5e0c3)
